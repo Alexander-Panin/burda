@@ -1,0 +1,261 @@
+{
+  "data": {
+    "id": "49926",
+    "nid": 49926,
+    "uuid": "9bc1542e-2c9b-4ca2-81d0-36871a8f280f",
+    "entityBundle": "article",
+    "entityLabel": "Der fließende Wickelmantel ist der eleganteste Modetrend für den Herbst",
+    "entityUrl": {
+      "path": "/fashion/modetrend-herbst-2019-wickelmantel"
+    },
+    "title": "Der fließende Wickelmantel ist der eleganteste Modetrend für den Herbst",
+    "created": 1571292000,
+    "fieldSeoTitle": "Modetrend im Herbst 2019: So elegant ist der Wickelmantel",
+    "fieldTeaserText": "Der fließende Wickelmantel ist das eleganteste Statement-Piece für den Herbst 2019. Wir zeigen die vier schönsten Varianten des Modetrends.",
+    "fieldTeaserMedia": {
+      "targetId": 978461,
+      "entity": {
+        "fieldImage": {
+          "url": "https://harpersbazaar.de/sites/default/files/images/2019-10/ferragamo-wickelmantel_2.jpg",
+          "alt": "Modetrend Wickelmantel "
+        }
+      }
+    },
+    "author": {
+      "user": {
+        "entityUrl": {
+          "path": "/autor/joe-bloggs"
+        },
+        "fieldForename": "Joe",
+        "fieldSurname": "Bloggs"
+      }
+    },
+    "channel": {
+      "entity": {
+        "id": "6026",
+        "entityLabel": "Fashion",
+        "parent": [
+          {
+            "targetId": 1,
+            "entity": {
+              "entityLabel": "Home",
+              "parent": [
+                {
+                  "entity": null
+                }
+              ],
+              "entityUrl": {
+                "path": "/"
+              }
+            }
+          }
+        ],
+        "entityUrl": {
+          "path": "/fashion"
+        }
+      }
+    },
+    "paragraphs": [
+      {
+        "entity": {
+          "id": 2243501,
+          "entityBundle": "media",
+          "fieldTitle": null,
+          "fieldAnchor": null,
+          "fieldPViewMode": "full",
+          "fieldMedia": {
+            "entity": {
+              "entityUrl": {
+                "path": "/media/978461"
+              },
+              "type": "MediaImage",
+              "mid": 978461,
+              "fieldImage": {
+                "alt": "Modetrend Wickelmantel ",
+                "height": 1472,
+                "url": "https://harpersbazaar.de/sites/default/files/images/2019-10/ferragamo-wickelmantel_2.jpg",
+                "width": 2400
+              },
+              "fieldCopyright": null,
+              "fieldSource": "Imaxtree",
+              "fieldDescription": {
+                "processed": "<p>Der elegante Wickelmantel auf dem Laufsteg von Salvatore Ferragamo für Herbst/Winter 2019/20.</p>"
+              }
+            }
+          }
+        }
+      },
+      {
+        "entity": {
+          "id": 2243506,
+          "entityBundle": "text",
+          "fieldAnchor": null,
+          "fieldText": {
+            "processed": "<p>Ein erstes <a href=\"/tags/mantel\">Mantel</a>-Fazit für die Herbst/Wintersaison 2019/20 könnte lauten: Gerader und weniger voluminös sind die neuen Modelle geschnitten. Weniger Extravaganz, mehr schlichte Raffinesse. Ein gutes Beispiel ist dafür der <a href=\"https://www.harpersbazaar.de/fashion/blazermantel-trend-herbst-2019\">Blazermantel</a>. Ähnlich schmal oben und unten zugeschlagen ist der Wickelmantel, der allerdings durch seine betonte Taille femininer und gleichsam lässiger daherkommt. Lässiger aus dem Grund, weil man sich in ihm immer ein wenig fühlt wie ein Dandy in seinem lose gewickelten Morgenmantel. Wir zeigen die vier schönsten Varianten des neuen Mantel-Lieblings.</p>"
+          },
+          "fieldPViewMode": "small"
+        }
+      },
+      {
+        "entity": {
+          "id": 2243511,
+          "entityBundle": "text",
+          "fieldAnchor": null,
+          "fieldText": {
+            "processed": "<h2>Modetrend: Die schönsten Varianten des Wickelmantels für den Herbst 2019</h2>\n\n<h3>1. Der Wickelmantel in Naturtönen</h3>\n\n<p>Dass der Wickelmantel in hellen Naturtönen ein Klassiker in der <a href=\"/tags/mode\">Mode</a> ist, hängt eng mit <a href=\"/tags/max-mara\">Max Mara</a> zusammen. In so gut wie jeder Herbstsaison taucht er als ikonischer <em>Camel Coat</em> in den Kollektionen des italienischen Labels auf. Auf den aktuellen Laufstegen sah man ähnliche Modelle unter anderem bei Jil Sander: samt streng gegürteter Taille und aufgesetzten XL-Taschen, die jede <a href=\"/tags/handtasche\">Handtasche</a> überflüssig machen. Der ultrahelle Naturton passt sich derweil allen anderen Farben wie ein Chamäleon an und wirkt herrlich entspannt. Mehr Detox und Entschleunigung zum Anziehen geht nicht.</p>"
+          },
+          "fieldPViewMode": "small"
+        }
+      },
+      {
+        "entity": {
+          "id": 2243516,
+          "entityBundle": "media",
+          "fieldTitle": null,
+          "fieldAnchor": null,
+          "fieldPViewMode": "small",
+          "fieldMedia": {
+            "entity": {
+              "entityUrl": {
+                "path": "/media/978466"
+              },
+              "type": "MediaImage",
+              "mid": 978466,
+              "fieldImage": {
+                "alt": "Mode-Trend: Der Wickelmantel für Herbst 2019",
+                "height": 3600,
+                "url": "https://harpersbazaar.de/sites/default/files/images/2019-10/jil-sander-f19-059.jpg",
+                "width": 2400
+              },
+              "fieldCopyright": null,
+              "fieldSource": "Imaxtree",
+              "fieldDescription": {
+                "processed": "<p>Jil Sander Herbst/Winter 2019/20</p>"
+              }
+            }
+          }
+        }
+      },
+      {
+        "entity": {
+          "id": 2243521,
+          "entityBundle": "text",
+          "fieldAnchor": null,
+          "fieldText": {
+            "processed": "<h3>2. Der Wickelmantel aus Leder</h3>\n\n<p>Leder ist ein weiteres wichtiges Thema für die Herbst/Wintersaison 2019/20. In Kombination mit dem Wickelmantel finden also gleich zwei Trendströmungen zusammen. Wer jedoch an dieser Stelle einen düsteren, schwarzen und super-sleeken Look im Stile des Kultfilms <em>Matrix</em> vor Augen hat, wird von Salvatore Ferragamo eines Besseren belehrt: Der Wickelmantel aus Leder wirkt jetzt elegant und feminin, wenn man ihn einem soften Braun oder Beige trägt. Schön dazu: Eine hellblaue Business-Bluse, die subtil unter dem fließenden Kragen des Wickelmantels hervorblitzt sowie bunte Strumpfhosen in Pumps.</p>"
+          },
+          "fieldPViewMode": "small"
+        }
+      },
+      {
+        "entity": {
+          "id": 2243526,
+          "entityBundle": "media",
+          "fieldTitle": null,
+          "fieldAnchor": null,
+          "fieldPViewMode": "small",
+          "fieldMedia": {
+            "entity": {
+              "entityUrl": {
+                "path": "/media/978471"
+              },
+              "type": "MediaImage",
+              "mid": 978471,
+              "fieldImage": {
+                "alt": "Mode-Trend: Der Wickelmantel für Herbst 2019",
+                "height": 3600,
+                "url": "https://harpersbazaar.de/sites/default/files/images/2019-10/ferragamo-f19-085.jpg",
+                "width": 2400
+              },
+              "fieldCopyright": null,
+              "fieldSource": "Imaxtree",
+              "fieldDescription": {
+                "processed": "<p>Salvatore Ferragamo Herbst/Winter 2019/20</p>"
+              }
+            }
+          }
+        }
+      },
+      {
+        "entity": {
+          "id": 2243531,
+          "entityBundle": "text",
+          "fieldAnchor": null,
+          "fieldText": {
+            "processed": "<h3>3. Der karierte Wickelmantel </h3>\n\n<p>Karos können gerne mal an sonntägliche Golfspieler oder konservative Jura-Studenten erinnern. Beim karierten Wickelmantel liegen beide Vergleiche völlig fern, wie ein Blick auf den Laufsteg von Christian Wijnants beweist: Dieses Oversize-Modell mit überschnittenen Schultern wirkt einfach extrem nonchalant-lässig. Bitte dazu notieren und sofort nachstylen: die <a href=\"/tags/haare\">Haare</a> im zurückgegelten <em>Wet-</em>Look sowie Schuhe in Neonrosa. Sie nehmen der klassischen Musterung im Nu ihre Strenge. </p>"
+          },
+          "fieldPViewMode": "small"
+        }
+      },
+      {
+        "entity": {
+          "id": 2243536,
+          "entityBundle": "media",
+          "fieldTitle": null,
+          "fieldAnchor": null,
+          "fieldPViewMode": "small",
+          "fieldMedia": {
+            "entity": {
+              "entityUrl": {
+                "path": "/media/978476"
+              },
+              "type": "MediaImage",
+              "mid": 978476,
+              "fieldImage": {
+                "alt": "Mode-Trend: Der Wickelmantel für Herbst 2019",
+                "height": 3606,
+                "url": "https://harpersbazaar.de/sites/default/files/images/2019-10/wijnants-f19-013.jpg",
+                "width": 2400
+              },
+              "fieldCopyright": null,
+              "fieldSource": "Imaxtree",
+              "fieldDescription": {
+                "processed": "<p>Christian Wijnants Herbst/Winter 2019/20</p>"
+              }
+            }
+          }
+        }
+      },
+      {
+        "entity": {
+          "id": 2243541,
+          "entityBundle": "text",
+          "fieldAnchor": null,
+          "fieldText": {
+            "processed": "<h3>4. Der Wickelmantel gegen die Herbst-Tristesse</h3>\n\n<p>Kann ein Wickelmantel als Stimmungs-Booster funktionieren? Kann er. Schauen Sie ein paar Zeilen weiter nach unten, zum Laufsteg-Look von Balenciaga: So ein strahlendes Rot vertreibt garantiert jede Herbst-Tristesse. Zugegeben, um auf Nummer sicher zu gehen wird man vermutlich in die klassisch-karierte Variante investieren oder in jene in Naturtönen (siehe Variante 1). Wer aber mutig ist, greift zum farbenfrohen Modell. Und Mut wird in der Mode immer belohnt, versprochen.</p>"
+          },
+          "fieldPViewMode": "small"
+        }
+      },
+      {
+        "entity": {
+          "id": 2243546,
+          "entityBundle": "media",
+          "fieldTitle": null,
+          "fieldAnchor": null,
+          "fieldPViewMode": "small",
+          "fieldMedia": {
+            "entity": {
+              "entityUrl": {
+                "path": "/media/978481"
+              },
+              "type": "MediaImage",
+              "mid": 978481,
+              "fieldImage": {
+                "alt": "Mode-Trend: Der Wickelmantel für Herbst 2019",
+                "height": 3600,
+                "url": "https://harpersbazaar.de/sites/default/files/images/2019-10/balenciaga-f19-109.jpg",
+                "width": 2400
+              },
+              "fieldCopyright": null,
+              "fieldSource": "Imaxtree",
+              "fieldDescription": {
+                "processed": "<p>Balenciaga Herbst/Winter 2019/20</p>"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
